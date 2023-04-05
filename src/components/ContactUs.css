@@ -1,0 +1,17 @@
+.contact-container {
+    border-width: 10px;
+    border-color: #1f98f4;
+    border-style: double;
+    align-items: center;
+    text-align: left;
+    margin: 50px;
+    padding: 20px;
+    font-size: large;
+}
+
+.contact-col > h1 {
+    text-align: left;
+    padding: 10px;
+    font-size: 50px;
+    font-style: italic;
+}
