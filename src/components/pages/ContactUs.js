@@ -1,5 +1,6 @@
 import React from 'react';
 import '../ContactUs.css'
+import CardItem from '../CardItem';
 
 function FeedbackForm() {
 
@@ -30,6 +31,7 @@ function FeedbackForm() {
                         href='https://goo.gl/maps/W7tFrixdWMqHoGuA6'
                     >
                         <i className='fa  fa-address-card'></i>
+
                         2840 N Buckner Blvd
                         <br />
                         Dallas, TX 75228
@@ -37,11 +39,10 @@ function FeedbackForm() {
                         U.S.A.
                     </a>
                 </div>
-
             </div>
-
-        </div>
-    )
+            
+            </div>
+            )
 }
 
-export default FeedbackForm;
+            export default FeedbackForm;

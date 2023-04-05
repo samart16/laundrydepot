@@ -8,9 +8,6 @@ const Footer = () => {
   return (
     <div  id='footer' className='footer-container'>
         <section className='footer-subscription'>
-            <p className='footer-subscription-heading'>
-                Contact Us
-            </p>
         </section>
         <div className='footer-links'>
             <div className='footer-link-wrapper'>
