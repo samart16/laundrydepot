@@ -15,3 +15,9 @@
     font-size: 50px;
     font-style: italic;
 }
+
+.contact-col > a {
+    text-align: left;
+    padding: 10px;
+    font-style: italic;
+}
