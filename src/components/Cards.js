@@ -14,13 +14,16 @@ const Cards = () => {
                             text='Enjoy a clean, fast, and affordable experience in our facility. 
                             We offer highly efficient equipment with frequent availability.'
                             label='Self Service'
-                            path='/' />
+                            path='/' 
+                            alt='Set of Washers'/>
                         <CardItem
                             src='images/foldingclothes.jpg'
                             text='Drop off your laundry and we will wash, dry, and fold it for you in a timely manner 
                             while you handle your daily tasks.'
                             label='Drop Off Service'
-                            path='/' />
+                            path='/' 
+                            alt='Folded Laundry'/>
+                            
                     </ul>
                 </div>
             </div>
