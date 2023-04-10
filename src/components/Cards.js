@@ -12,7 +12,7 @@ const Cards = () => {
                         <CardItem
                             src='images/washers.jpeg'
                             text='Enjoy a clean, fast, and affordable experience in our facility. 
-                            We offer highly efficent equipment with frequent availability.'
+                            We offer highly efficient equipment with frequent availability.'
                             label='Self Service'
                             path='/' />
                         <CardItem
