@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/laundrydepot/static/css/main.1e32a966.css",
+    "main.js": "/laundrydepot/static/js/main.08d1f3ce.js",
+    "static/media/outisideleft.jpg": "/laundrydepot/static/media/outisideleft.c9d66184968356e4b249.jpg",
+    "static/media/ocean.jpg": "/laundrydepot/static/media/ocean.6d683c0ee6824af7961a.jpg",
+    "static/media/cloud.jpg": "/laundrydepot/static/media/cloud.53f4843759ebec256cb9.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/laundrydepot/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/desert.jpg": "/laundrydepot/static/media/desert.fabdf94dc5be2d3dc707.jpg",
+    "static/media/fontawesome-webfont.eot": "/laundrydepot/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/laundrydepot/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/laundrydepot/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/laundrydepot/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/laundrydepot/index.html",
+    "main.1e32a966.css.map": "/laundrydepot/static/css/main.1e32a966.css.map",
+    "main.08d1f3ce.js.map": "/laundrydepot/static/js/main.08d1f3ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e32a966.css",
+    "static/js/main.08d1f3ce.js"
+  ]
+}
